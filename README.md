@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving)
-![header](https://capsule-render.vercel.app/api?color=random)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random)
 <!--
 **choihj00/choihj00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
